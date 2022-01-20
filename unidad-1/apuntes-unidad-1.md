@@ -34,6 +34,12 @@ Scratch es un lenguaje de programación visual basado en bloques de alto nivel y
 
 - Programa creado por MIT
 
+### Ejercicios de Scratch
+
+- Ejercicio: Animales: [https://scratch.mit.edu/projects/628735704](https://scratch.mit.edu/projects/628735704)
+- Globos: [https://scratch.mit.edu/projects/628726613](https://scratch.mit.edu/projects/628726613)
+- Gatos primer ejercicio: [https://scratch.mit.edu/projects/627901763](https://scratch.mit.edu/projects/627901763)
+
 # Notas Viernes 14-01-2022
 
 Terminamos el ejercicio del gato
